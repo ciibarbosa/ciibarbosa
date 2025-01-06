@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oiii! Eu sou a Cibele Barbosa 
 
-<!--
-**ciibarbosa/ciibarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou estudante à procura de uma oportunidade na área da Tecnologia.
+- 🌱 Estou aprendendo C e me aprofundando no desenvolvimento de sistemas.
+- 🤔 Estou procurando ajuda com prática em projetos reais para ganhar mais experiência no mercado de TI.  
+- 😄 Pronomes: Ela/Dela  
+- ⚡ Curiosidade sobre mim: Tenho experiência como atriz em teatro amador, o que me ajudou a desenvolver habilidades interpessoais e de comunicação eficaz. Além disso, adoro ler e jogar videogame no meu tempo livre! 
 
-Here are some ideas to get you started:
+<div> 
+   <a href="https://github.ai/ciibarbosa">
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ciibarbosa&show_icons=true&theme=buefy&include_all_commits-true&count_private-true"L>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciibarbosa&layout=compact&langs_count=16&theme=buefy"L>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
