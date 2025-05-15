@@ -1,6 +1,7 @@
 ## Oiii! Eu sou a Cibele Barbosa 
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na UNIP, focada em programação e desenvolvimento de software. Atualmente, estou aprendendo C e aprofundando meus conhecimentos em arquitetura de sistemas. Busco oportunidades para ganhar experiência prática em projetos reais e expandir minha atuação no mercado de TI. Além da tecnologia, tenho experiência em teatro amador, o que aprimorou minhas habilidades interpessoais e de comunicação. No tempo livre, adoro ler e jogar videogame. Sempre em busca de novos desafios e aprendizados!
+<p align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Assistente de Projetos na área de tecnologia
+Atualmente atuo com criação de relatórios, templates e envio de indicadores utilizando Node.js e TypeScript no VS Code. Tenho interesse em desenvolvimento de software, automações e soluções baseadas em dados. Aqui compartilho projetos, estudos e aprendizados da minha jornada na área de tecnologia.!
 
 #
 
