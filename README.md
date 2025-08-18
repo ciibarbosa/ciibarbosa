@@ -1,8 +1,8 @@
 ## Oiii! Eu sou a Cibele Barbosa 
 
-<p align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Assistente de Projetos
+<p align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente atuo com criação de relatórios, templates e envio de indicadores utilizando Node.js e TypeScript no VS Code. Tenho interesse em desenvolvimento de software, automações e soluções baseadas em dados. Aqui compartilho projetos, estudos e aprendizados da minha jornada na área de tecnologia!
+Aqui compartilho projetos, estudos e aprendizados da minha jornada na área de tecnologia!
 
 #
 
